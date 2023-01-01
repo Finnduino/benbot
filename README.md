@@ -22,7 +22,7 @@ This is a Discord bot that uses the OpenAI API to generate responses to user mes
     -   `DISCORD_TOKEN`: Your Discord bot token
     -   `OPENAI_API_KEY`: Your OpenAI API key
 3.  Install the required packages by running `pip install -r requirements.txt`.
-4.  Run the script with `python bot.py`.
+4.  Run the script with `python AdvancedBenBot.py`.
 
 ## Usage
 
