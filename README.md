@@ -1,5 +1,5 @@
 ﻿
-# Ben's Discord Bot
+# BenBot: A GPT3 Powered Chatbot
 
 This is a Discord bot that uses the OpenAI API to generate responses to user messages. It also has functionality to remember information about users and provide context to its responses based on past conversations.
 
